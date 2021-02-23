@@ -1,6 +1,6 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
 body {
-  background: green;
+  background: lightgreen;
   display: flex;
   justify-content: center;
 }
